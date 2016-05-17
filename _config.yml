@@ -1,0 +1,28 @@
+name: BryanKennard
+favicon: null
+layout_spectrum: 0.8643380841240287
+typography_spectrum: 0.07524646981619298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8346269587054849
+  lightness: 0.313846547389403
+  saturation: 0.8148284226190299
+  rhythmicContrast: 0.27896659867838025
+purpose: []
